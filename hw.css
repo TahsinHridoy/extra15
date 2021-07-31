@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0;
+    text-decoration: none;
+}
+address{
+    position: absolute;
+}
+header{
+    position: relative;
+}
+main{
+    position: relative;
+}
+header h1{
+    text-align: center;
+    margin: 6px;
+}
+header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul li{
+    padding: 6px;
+    margin: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    list-style-type: none;
+}
+section{
+    color: #fff;
+    font-size: 26px;
+}
+
+
+
+
+main #poo1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
